@@ -1,3 +1,7 @@
+# Hi there 👋
+
+## 이런 환경에 익숙해요✍🏼
+
 ## 언어
 
 <p>
@@ -8,8 +12,7 @@
   <img alt="" src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   </p>
-  <br>
 
 ## 📕 Latest Blog Posts
 
-<ul><li><a href='https://yo09.tistory.com/17' target='_blank'>리액트 기초 문법 정리 (4)</a></li><li><a href='https://yo09.tistory.com/16' target='_blank'>리액트 기초 문법 정리 (3)</a></li><li><a href='https://yo09.tistory.com/15' target='_blank'>리액트 기초 문법 정리 (2)</a></li><li><a href='https://yo09.tistory.com/14' target='_blank'>To-Do List 만들면서 정리한 JavaScript - 랜덤 출력</a></li><li><a href='https://yo09.tistory.com/13' target='_blank'>To-Do List 만들면서 정리한 JavaScript - Timer</a></li><li><a href='https://yo09.tistory.com/12' target='_blank'>리액트 기초 문법 정리 (1)</a></li><li><a href='https://yo09.tistory.com/11' target='_blank'>To-Do List 만들면서 정리한 JavaScript - login</a></li><li><a href='https://yo09.tistory.com/10' target='_blank'>백준 14501 : 퇴사 풀이 파이썬(python)</a></li><li><a href='https://yo09.tistory.com/9' target='_blank'>백준 10815번 : 숫자 카드 풀이 (파이썬 python)</a></li><li><a href='https://yo09.tistory.com/8' target='_blank'>자바스크립트 기본 문법 정리 #2</a></li></ul>
+<ul><li><a href='https://yo09.tistory.com/18' target='_blank'>CSS 선택자와 속성 정리</a></li><li><a href='https://yo09.tistory.com/17' target='_blank'>리액트 기초 문법 정리 (4)</a></li><li><a href='https://yo09.tistory.com/16' target='_blank'>리액트 기초 문법 정리 (3)</a></li><li><a href='https://yo09.tistory.com/15' target='_blank'>리액트 기초 문법 정리 (2)</a></li><li><a href='https://yo09.tistory.com/14' target='_blank'>To-Do List 만들면서 정리한 JavaScript - 랜덤 출력</a></li><li><a href='https://yo09.tistory.com/13' target='_blank'>To-Do List 만들면서 정리한 JavaScript - Timer</a></li><li><a href='https://yo09.tistory.com/12' target='_blank'>리액트 기초 문법 정리 (1)</a></li><li><a href='https://yo09.tistory.com/11' target='_blank'>To-Do List 만들면서 정리한 JavaScript - login</a></li><li><a href='https://yo09.tistory.com/10' target='_blank'>백준 14501 : 퇴사 풀이 파이썬(python)</a></li><li><a href='https://yo09.tistory.com/9' target='_blank'>백준 10815번 : 숫자 카드 풀이 (파이썬 python)</a></li></ul>
